@@ -1,5 +1,10 @@
 KF2 Server Tool written in C#
 
+///
+  WORK ON THIS PROJECT HAS STOPPED DUE TO MY CURRENT INABILITY TO HOST SERVERS HOWEVER WORK WILL CONTINUE WHEN I AM ABLE TO CONTINUE
+///
+
+
 Overview:
 A Tool to support the managment of KF2 servers with some client options thrown in.
 
